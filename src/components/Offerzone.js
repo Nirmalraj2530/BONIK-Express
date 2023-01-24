@@ -78,7 +78,7 @@ export default function Offerzone() {
                         <div className='col-lg-12 pt-3'>
                             <div class="card">
                                 <img class="card-img" src={side2} alt="..." />
-                                <div class="card-img-overlay text-dark d-flex justify-content-start align-items-end">
+                                <div class="card-img-overlay text-dark d-flex justify-content-start">
                                    <h3>iPhone 6+<br/>32Gb<span>
                                    <p className='fs-5 fw-light'>Experiance with<br/> best smartphone <br/>with world</p></span></h3>
                                 </div>
